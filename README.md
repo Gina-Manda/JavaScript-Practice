@@ -6,4 +6,4 @@ Shows how to use:\
  • .remove() method\
  • .propertyName property\
  • .forEach() method\
- • Event listeners\
+ • Event listeners
